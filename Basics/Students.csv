@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,Marks,Attendance,City
+101,Rahul,20,Male,Computer,85,92,Ahmedabad
+102,Priya,21,Female,Electronics,91,95,Surat
+103,Amit,19,Male,Mechanical,78,88,Rajkot
+104,Sneha,22,Female,Civil,89,90,Vadodara
+105,Karan,20,Male,Computer,67,75,Ahmedabad
+106,Neha,21,Female,Computer,94,98,Surat
+107,Vikas,23,Male,Electrical,72,81,Bhavnagar
+108,Pooja,20,Female,Civil,86,93,Rajkot
+109,Rohan,22,Male,Mechanical,81,84,Surat
+110,Anjali,19,Female,Computer,96,99,Ahmedabad
